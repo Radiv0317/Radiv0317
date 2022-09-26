@@ -1,7 +1,8 @@
-![Header](./github-header-image.png)
+### Hi there 👋, my name is Radiv0317
+#### I am Front End Dev
 ![I am Front End Programmer](https://i.pinimg.com/originals/3c/f2/e5/3cf2e50f44227fceed70b89a758d8570.gif)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I am Student, from Indonesia
 
 Skills:  JS / HTML / CSS
 
