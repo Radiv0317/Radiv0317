@@ -8,6 +8,8 @@ Skills:  JS / HTML / CSS
 
 - 🌱 I’m currently learning C# JS Python 
 
+![Profile views](https://gpvc.arturio.dev/Radiv0317)  
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Radiv0317)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/maikelf.apk/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://maikelfapk.site)  
 
