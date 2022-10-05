@@ -11,7 +11,7 @@ Skills:  JS / HTML / CSS
 ![Profile views](https://gpvc.arturio.dev/Radiv0317)  
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Radiv0317)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/maikelf.apk/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://maikelfapk.site)  
+[<img src='https://cdn-icons-png.flaticon.com/512/733/733553.png' alt='github' height='40'>](https://github.com/Radiv0317)  [<img src='https://cdn-icons-png.flaticon.com/512/174/174855.png' alt='instagram' height='40'>](https://www.instagram.com/maikelf.apk/)  [<img src='https://www.maikelfapk.site/logo%20web.png' alt='website' height='40'>](https://maikelfapk.site)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Radiv0317)](https://github.com/ryo-ma/github-profile-trophy)
 
