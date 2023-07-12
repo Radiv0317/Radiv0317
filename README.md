@@ -19,7 +19,7 @@ I am Student, from Indonesia
 
 Skills:  JS / HTML / CSS
 
-- 🌱 I’m currently learning C# JS Python 
+- 🌱 I’m currently learning Flutter Laravel Python 
 
 
 
