@@ -1,5 +1,4 @@
-### Hi there 👋, my name is Radiv0317
-#### I am Front End Dev
+# Python
 
                   .----.
       .---------. | == |
