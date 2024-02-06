@@ -14,7 +14,7 @@
 
 ![I am Front End Programmer](https://1.bp.blogspot.com/-lLdQSlk-sgc/T1z6SjwvytI/AAAAAAAACmo/j1Wyk-XJ4n0/s1600/11.gif)
 
-<h3 align="center">Just Learning Ruby</h3>
+<h3 align="center">Just Learning PYTHON BLYYYAAATTTTT</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radiv0317&label=Profile%20views&color=0e75b6&style=flat" alt="radiv0317" /> </p>
 
