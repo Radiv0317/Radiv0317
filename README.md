@@ -1,6 +1,6 @@
 # Hello, I'm Radiv Lazuardi 👋
 
-![]()
+![](Radiv-nobg.png)
 
 Welcome to my Python playground! Here's a brief introduction to who I am and what I do:
 
