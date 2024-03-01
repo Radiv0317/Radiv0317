@@ -1,6 +1,5 @@
-# Hello, I'm Radiv Lazuardi 👋
-
-![](Radiv-nobg.png)
+<h1 align="center">Hello, I'm Radiv Lazuardi 👋</h1>
+<p align="center"><img src="Radiv-nobg.png" alt="Python Logo" width="400"/></p>
 
 Welcome to my Python playground! Here's a brief introduction to who I am and what I do:
 
