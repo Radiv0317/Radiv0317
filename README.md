@@ -6,6 +6,8 @@
 <div align="center">
   <img height="250" src="https://media1.tenor.com/m/gOvMvFxuMnQAAAAC/hutao-dance.gif"  />
 </div>
+---
+
 ## 🧑‍💻 **About Me**
 - 🎓 **Student at Telkom University**
 - 🎧 **DJing for 3 Years**
