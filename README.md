@@ -18,7 +18,7 @@
 ---
 
 ## 🎵 **Hobbies & Interests**
-🎮 Gaming | 🎧 DJing | 📷 Photography | 🎨 UI/UX Design | 🤖 AI & Machine Learning | 🚀 Tech Exploration
+🎮 Gaming | 🎧 DJing | 🎨 UI/UX Design | 🤖 AI & Machine Learning | 🚀 Tech Exploration
 
 ---
 
