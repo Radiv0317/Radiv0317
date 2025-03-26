@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Hi There! I'm [Your Name] 👋</h1>
+<h1 align="center">🚀 Hi There! 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&size=22&center=true&vCenter=true&width=500&lines=Tech+Enthusiast;Web+Developer;DJ;Gamer+%26+Music+Lover;Exploring+New+Technologies;Newbie+Music+Producer" />
